@@ -1,0 +1,32 @@
+{
+  "result": [
+  {
+    "Name": "Felix",
+    "Hobby": "Aikido",
+    "Age": "21",
+    "Phone": "12345678",
+    "Address": "Pueblo de Jalisco"
+  },
+  {
+    "Name": "Jesus",
+    "Hobby": "Pokemon GO",
+    "Age": "22",
+    "Phone": "87654321",
+    "Address": "San Miguel"
+  },
+  {
+    "Name": "Bryan",
+    "Hobby": "Opinar",
+    "Age": "23",
+    "Phone": "32165487",
+    "Address": "GDL"
+  },
+  {
+    "Name": "Mayto",
+    "Hobby": "Surfear",
+    "Age": "22",
+    "Phone": "13246578",
+    "Address": "Manzanillo"
+  }
+]
+}
