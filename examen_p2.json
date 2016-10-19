@@ -1,7 +1,12 @@
 {
   "result": [
   {
-    "Mensaje": "Vamos por el 100"
+    "Fruta": "Manzana",
+    "Precio": "20"
+  },
+  {
+    "Fruta": "Platano",
+    "Precio": "32"
   }
 ]
 }
